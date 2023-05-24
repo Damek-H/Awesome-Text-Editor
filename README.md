@@ -1,1 +1,1 @@
-# Awesome-Text-Editor
+# Awesome Text Editor
