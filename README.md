@@ -32,3 +32,5 @@ As a web developer, I want to create notes or code snippets with or without an i
 
 ## Deployed Application 
 https://txtedit.herokuapp.com
+
+![Deployed Image](/img/Screenshot.png)
